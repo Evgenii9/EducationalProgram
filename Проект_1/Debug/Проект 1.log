@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ПК\Desktop\Проект по программируванию\Проект 1\Source.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ПК\Desktop\Проект по программируванию\Проект 1\Source.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Проект 1.vcxproj -> C:\Users\ПК\Desktop\Проект по программируванию\Проект 1\Debug\Проект 1.exe
